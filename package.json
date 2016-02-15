@@ -1,0 +1,21 @@
+{
+  "name": "bitbucket-pr-fix",
+  "version": "0.0.1",
+  "description": "Fix BitBucket Pull Request UI",
+  "main": "src/main.js",
+  "dependencies": {
+    "gulp-bookmarklet": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunnyone/bitbucket-pr-fix.git"
+  },
+  "keywords": [
+    "bitbucket",
+    "pullrequest"
+  ],
+  "author": "Yoichi Imai",
+  "license": "MIT",
+  "homepage": "https://github.com/sunnyone/bitbucket-pr-fix"
+}
